@@ -23,8 +23,9 @@ main {
 }
 
 #parent {
-    display: flex;
+    display: flex-direction;
     justify-content: space-around;
+    text-align: center;
    
 }
 
@@ -86,3 +87,4 @@ a:hover {
         #parent {
           display: block;
         }
+    }
