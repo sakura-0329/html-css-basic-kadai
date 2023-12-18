@@ -23,7 +23,7 @@ main {
 }
 
 #parent {
-    display: flex-direction;
+    display: block;
     justify-content: space-around;
     text-align: center;
    
