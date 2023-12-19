@@ -24,7 +24,7 @@ main {
 
 #parent {
     justify-content: space-around;
-    display: flex;
+    display: block;
    
 }
 
